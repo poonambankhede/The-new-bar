@@ -1,0 +1,101 @@
+.Salebration_Drinks{
+    display: block;
+    height: 122vh;
+    width: 100vw;
+    border-bottom: 1px solid#f22e08;
+    padding-top: 100px;
+    /* padding-bottom: 30px; */
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+    
+}
+.Salebration_Drinks p{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    margin-top: 10px ;
+    font-size:2.8em;
+    line-height: 1.05em;
+    letter-spacing: .01em;
+    padding: 0;
+    margin-left: 440px;
+   
+
+}
+.Salebration_Drinks h3{
+    margin-left: 450px;
+    width: max-content;
+}
+
+.Salebration_Drinks div{
+display: inline-block; 
+width: 22vw;
+margin-top: 55px;
+text-align: left;
+
+
+   
+}
+
+.Salebration_Drinks .Blanc_de_Blancs{ 
+    width: 20vw;
+    column-gap: 75px;
+margin-left: 86px;
+
+
+}
+.Salebration_Drinks img{
+
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+}
+.Salebration_Drinks .Rose_Brut{
+    width: 20vw;
+    margin: 32px;
+
+}
+
+
+.Salebration_Drinks .Aperitif{
+    width: 20vw;
+
+
+
+}
+.Salebration_Drinks .Kentucky{
+    width: 20vw;
+    margin: 32px;
+
+    
+}
+.Salebration_Drinks button{
+
+width: 10vw;
+height: 8vh;
+display: block;
+line-height: 1.6;
+margin-top: 32px;
+}
+
+.Salebration_Drinks button{
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    font-size: 13px;
+    
+        
+        -webkit-appearance: none;
+        appearance: none;
+        text-align: center;
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+}
+.Salebration_Drinks  button:hover{
+    background-color:#f22e08;
+    color: white;
+
+}

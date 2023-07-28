@@ -1,0 +1,69 @@
+.Card{
+    height: 90vh;
+    width: 50vw;
+    color: #F22E08;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+
+}
+.boder{
+    color:  #F22E08;
+    border-bottom: 1px solid #F22E08;
+    height: 20px;
+    width: 50vw;
+}
+.CardHeading{
+    width: 50%;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    margin: 20px;
+
+}
+.EmptyShopinBtn{
+    align-items: center;
+    max-width: fit-content;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+
+    margin-left: 210px;
+    justify-content: center;
+    margin-top: 160px;
+    height: 40vh;
+    font-size: 18px;
+
+}
+.Empty{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    /* padding-left:20px ; */
+}
+.StartShopping{
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 18px;
+     height: 8vh;
+     width: 15vw;
+/* margin-right: 200px; */
+    letter-spacing: .015em;
+    line-height: 2em;
+    /* font-weight: 400; */
+    /* margin-left: 30px; */
+    letter-spacing: .015em;
+    line-height: 3em;
+    /* font-weight: 400; */
+   
+
+
+}
+
+.StartShopping:hover{
+    background-color:#f22e08;
+    color: #fff;
+
+
+}

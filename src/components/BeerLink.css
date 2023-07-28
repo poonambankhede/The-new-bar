@@ -1,0 +1,164 @@
+.BeerLink{
+    height: max-content;
+width: 98.5vw;
+}
+.HeadingBeer{
+display: flex;
+padding-top: 87px;
+font-family: "Avenir Next", sans-serif;
+font-size: 47px;
+align-items: center;
+justify-content: center;
+}
+.AboutBeer{
+height: 14vh;
+padding-bottom: 27px;
+font-family: "Avenir Next", sans-serif;
+    display: flex;
+    align-items: center;
+justify-content: center;
+border-bottom: 1px solid#f22e08;
+}
+.NavbarBeerLink{
+    display: flex;
+height: 15vh;
+font-family: "Avenir Next", sans-serif;
+align-items: center;
+justify-content: center;
+border-bottom: 1px solid#f22e08;
+
+}   
+.NavbarBeerLink p{
+    padding-left: 20px;
+
+font-family: "Avenir Next", sans-serif;
+ padding-right: 20px;
+}
+/* display: flex;
+height: 15vh;
+font-family: "Avenir Next", sans-serif;
+align-items: center;
+justify-content: center;
+border-bottom: 1px solid#f22e08; */
+
+.Product-Beer{
+    display: flex;
+    font-family: "Avenir Next", sans-serif;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: 58px;
+    margin-top: 30px;
+    align-items:center ;
+    justify-content: center;
+    
+}
+
+.Product-Beer .AthleticBrewing{
+    margin: 20px 0px 0px 3px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.AthleticBrewing img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+}
+.WestCoastIPA{
+    display: block;
+    margin: 20px 0px 0px 25px ;
+    font-family: "Avenir Next", sans-serif;
+
+}
+.WestCoastIPA img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+}
+
+.RunWildIPA{
+    margin: 20px 0px 0px 3px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.RunWildIPA img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+
+}
+
+.CervezaAtletica{   display: block;
+    margin: 20px 0px 0px 25px ;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.CervezaAtletica img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.BestDayKolsch{
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+    margin: 20px 0px 0px 3px ;
+
+}
+.BestDayKolsch img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.GoldenLager{
+    display: block;
+    margin: 20px 0px 0px 25px ;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.GoldenLager img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.FreeWaveHazy{
+    margin: 20px 0px 0px 3px ;
+font-family: "Avenir Next", sans-serif;
+
+
+
+}
+.FreeWaveHazy img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.GruviJuicyIPA{
+font-family: "Avenir Next", sans-serif;
+
+display: block;
+margin: 20px 0px 0px 25px ;
+}
+.GruviJuicyIPA img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.BrooklyEffects{
+    font-family: "Avenir Next", sans-serif;
+
+margin: 20px 0px 0px 3px ;}
+.BrooklyEffects img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.BrooklynSpecialEffects{
+    margin: 20px 0px 0px 25px ;
+    font-family: "Avenir Next", sans-serif;
+
+}
+.BrooklynSpecialEffects img{
+
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}

@@ -1,0 +1,89 @@
+.Footer-size{
+height:50vh;
+    width: 100vw;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding-top: 30px;
+}
+.About-Us{
+width: 21vw;
+padding: 17px;
+margin-right: 26px;
+margin-left: 28px;
+
+}
+.Shop-by-Drink{
+padding: 17px;
+width: 14vw;
+margin-left: 28px;
+
+
+}  
+.Help{
+padding: 17px;
+
+width: 15vw; 
+margin-left: 28px;
+
+
+}
+.Social{
+    width: 14vw;
+    padding: 17px;
+    margin-left: 28px;
+
+
+
+}
+.social-heading{
+    display: block;
+    margin-left: 10px;
+}
+.social-icon{
+ height: max-content;
+display: flex;
+font-size:20px;
+flex-wrap: wrap;
+transform: translateZ(0);
+transition: color .3s cubic-bezier(.215,.61,.355,1);
+
+}
+
+.social-icon p{
+    /* box-shadow: 1px 0 0 0 rgb(var(--border-color)),0 1px 0 0 rgb(var(--border-color)),1px 1px 0 0 rgb(var(--border-color)),1px 0 0 0 rgb(var(--border-color)) inset,0 1px 0 0 rgb(var(--border-color)) inset; */
+    /* transform: translateZ(0); */
+    font-size:22px;
+        box-shadow: unset; 
+/* transform: translateZ(0); */
+
+
+    padding-left:31px;
+    padding-right: 31px;
+    /* transition: color .3s cubic-bezier(.215,.61,.355,1); */
+}
+
+.Lets-be-friends{
+width: 20vw;
+padding: 15px;
+margin-left: 28px;
+
+}
+.Lets-be-friends .h3{
+    padding: 0;
+    padding-left: 30px;
+}
+
+  .input-box{ 
+border: 1px solid#f22e08;
+width: 12vw;
+    text-transform: none;
+    background: transparent;
+    transition: border .2s ease-in-out,box-shadow .2s ease-in-out;
+    color: #f22e08;
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-size: medium;
+   }
+
+   

@@ -1,0 +1,169 @@
+body{
+    background-color:  #f6efde;
+    color: #f22e08;
+    width:max-content;
+    height: max-content;
+    font-size: medium;
+    font-family: Avenir Next;
+    font-display: swap;
+    margin: 0;
+    padding: 0;
+}
+
+.titel{
+
+height: 9vh;
+width: 100vw;
+    background-color: rgb(79, 101, 221);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    word-break: normal;
+    font-size: 13px;
+}
+    
+
+.Navbar-box{
+    position: sticky;
+    top: 0%;
+    background-color:  #f6efde;
+display: flex;
+    width: 100vw;
+    height: 13vh;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    color:#f22e08;
+    margin-bottom: 0;
+    padding: 0;
+border-bottom: 1px solid#f22e08;
+z-index:2000;
+
+
+
+}
+
+.newbarLogo{
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    color: #F22E08;
+    margin: 10px 0% 10px 43px ;
+
+}
+.NavItem{
+    width: 60vw;
+    display: flex;
+    
+    
+}
+.NavItem div{
+    margin:15px;
+    position: relative;
+    top:1px ;
+}
+.icon{
+    display: flex;
+    font-size:23px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.icon p{
+position: relative;
+top: 1px;
+padding-left: 20px;
+}
+
+
+.celebrate-background{
+ background-image:url("https://thenewbar.com/cdn/shop/files/HeaderSpring.jpg?v=1683585229&");
+ background-size: cover;
+/* background-color: #0b0b0a; */
+/* box-shadow: #191201; */
+vertical-align: top;
+ width: 100vw;
+ height: 80vh;
+ background-color: rgb(181, 192, 189);
+ margin: 0;
+ padding: 0;
+ background-repeat: no-repeat;
+display: inline-block;
+/* background-position: center center; */
+background-position: center;
+opacity:4;
+background-blend-mode: multiply;
+color: #e8dfcb;
+
+}
+
+.celebrate-background .h2{
+    margin-left: 138px;
+    width: fit-content;
+    font-size: 1.1em;
+margin-top: 247px;
+
+}
+
+.celebrate-background .h1{
+    padding-left: 134px;
+    margin-top: 30px;
+    font-style: non;
+    font-size: 3.5em;
+margin: 0;
+display: block; 
+font-family: 'Segoe UI', Tahoma, sans-serif;
+
+    font-weight: normal;
+    font-style: var(--heading-font-style);
+    text-transform: var(--heading-text-transform);
+    
+}
+.celebrate-background button{
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    font-size: 13px;
+    margin-top: 15px;
+        margin-left: 138px;
+        display: inline-block;
+        -webkit-appearance: none;
+        appearance: none;
+        padding: 0 25px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+        /* background: rgb(var(--button-background)); */
+}
+.celebrate-background button:hover{
+    background-color:#f22e08;
+    color: white;
+
+}
+
+
+.bottom-background-img{
+    background-image:url("https://thenewbar.com/cdn/shop/files/NewsletterReachV2_1400x.jpg?v=1657044648" );
+    /* background-size: cover; */
+    object-fit: cover;
+    width: 100vw;
+    height: 65vh;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+   /* background-position: center center; */
+   overflow-clip-margin: content-box;
+   background-blend-mode: multiply;
+   border-bottom: 1px solid#f22e08;
+   aspect-ratio: auto 2000 / 978;
+   overflow: clip;
+
+   
+}

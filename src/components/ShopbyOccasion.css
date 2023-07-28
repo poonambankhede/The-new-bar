@@ -1,0 +1,29 @@
+.ShopbyOccasion{
+    height: 56vh;
+    width: 89vw;
+    display: flex;
+    margin: 0px 10px 0px 74px;
+    padding-top: 50px;
+}
+.SummertimeDrinks{
+    width: 16vw;
+    padding: 20px;
+margin-left: 70px;
+}
+.NewtoThis{
+    width: 16vw;
+    padding: 20px;
+margin-left: 20px;
+}
+.BundleImg{
+width: 20vw;
+padding: 20px;
+align-items: center;
+justify-content: center;
+margin-left: 20px;
+}
+.OccImg{
+width: 20vw;
+align-items: center;
+padding: 20px;
+margin-left: 20px;}

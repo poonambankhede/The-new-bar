@@ -1,0 +1,52 @@
+.ShopLinkNavbar{
+    height: 56vh;
+    width: 89vw;
+    display: flex;
+    margin: 0px 60px 0px 60px;
+    padding-top: 50px;
+}
+.NonalcoholicWine{
+    width: 16vw;
+    
+    padding: 20px;
+margin-left: 20px;
+
+
+}
+.NonalcoholicSpirits{
+width: 16vw;
+padding: 20px;
+margin-left: 20px;
+
+
+
+}
+.NonalcoholicBeer{
+    padding: 20px;
+    width: 16vw;
+margin-left: 20px;
+
+}
+.DesNewDrink{
+    padding: 20px;
+    width: 20vw;
+margin-left: 20px;
+
+
+
+}
+.PostAlc{
+    width: 20vw;
+    align-items: center;
+    padding: 20px;
+}
+.TaketheQuiz{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ShopMerch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

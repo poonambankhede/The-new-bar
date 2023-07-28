@@ -1,0 +1,37 @@
+
+.Countbtn{
+    /* margin-left: 30px; */
+    display: flex;
+    border: 1px solid #F22E08;
+    height:45px;
+    width: 150px;
+    align-items: center;
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    
+    justify-content: center;
+    
+}
+.increment{
+    background-color:  #f6efde;
+    border: 0ch;
+color: #F22E08;
+font-size: 20px;
+margin-left: 28px;
+font-weight: normal;
+    
+
+}
+.decrement{
+color: #F22E08;
+font-size: 35px;
+margin-right: 28px;
+
+    background-color:  #f6efde;
+
+    border: 0ch;
+
+}
+  

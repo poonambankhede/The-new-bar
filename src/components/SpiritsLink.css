@@ -1,0 +1,336 @@
+.SpiritsLink{
+    height: max-content;
+    width: 98.5vw;
+    padding-bottom: 30px;
+    
+    }
+    .SpiritsLink .Heading-Spirits{
+    display: flex;
+    padding-top: 87px;
+    font-family: "Avenir Next", sans-serif;
+    font-size: 47px;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    .SpiritsLink .AboutSpirit{
+    height: 14vh;
+    padding-bottom: 27px;
+    font-family: "Avenir Next", sans-serif;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid#f22e08;
+    
+    }
+    .SpiritsLink .NavbarSpirit{
+        display: flex;
+    height: 15vh;
+    font-family: "Avenir Next", sans-serif;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid#f22e08;
+    
+    }   
+    .NavbarSpirit p{
+    padding-left: 20px;
+    font-family: "Avenir Next", sans-serif;
+     padding-right: 20px;
+    }
+
+   .SpiritContenar{
+        height: fit-content;
+        display:flex;
+        width: 90vw;
+        padding-top: 30px;
+        margin-left: 55px;
+        flex-wrap: wrap;
+        word-wrap: normal;
+        align-items:center ;
+        justify-content: center;
+        
+        
+        }
+        .Nonalcoholic-Mezcal {
+              margin: 20px 0px 0px 5px ;
+              display: block;
+        font-family: "Avenir Next", sans-serif;
+        }
+        .Nonalcoholic-Mezcal img{
+            border-left:1px solid#f22e08;
+            border-top: 1px solid#f22e08;
+        }
+        .Ritual-Tequila{
+            display: block;
+            font-family: "Avenir Next", sans-serif;
+              margin: 20px 0px 0px 38px ;
+        
+        }
+        .Ritual-Tequila img{
+            border-left:1px solid#f22e08;
+            border-top: 1px solid#f22e08;
+        }
+
+        .Monday-Nonalcoholic{
+            margin: 20px 0px 0px 5px ;
+            display: block;
+      font-family: "Avenir Next", sans-serif;
+    }
+      .Monday-Nonalcoholic img{
+          border-left:1px solid#f22e08;
+          border-top: 1px solid#f22e08;
+      }
+          
+      
+      .Spiritless-Kentucky74{                
+          display: block;
+          font-family: "Avenir Next", sans-serif;
+            margin: 20px 0px 0px 38px ;
+      
+      }
+      .Spiritless-Kentucky74 img{
+          border-left:1px solid#f22e08;
+          border-top: 1px solid#f22e08;
+      }
+      
+      .Optimist-Fresh{
+        margin: 20px 0px 0px 5px ;
+        display: block;
+  font-family: "Avenir Next", sans-serif;
+        
+  
+  
+  }
+  .Optimist-Fresh img{
+      border-left:1px solid#f22e08;
+      border-top: 1px solid#f22e08;
+  }
+      
+  
+  .Pathfinder-HempRoot{
+      display: block;
+      font-family: "Avenir Next", sans-serif;
+        margin: 20px 0px 0px 38px ;
+  
+  }
+  .Pathfinder-HempRoot img{
+      border-left:1px solid#f22e08;
+      border-top: 1px solid#f22e08;
+  }
+  .JaliscoTequila {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.JaliscoTequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Nonalcoholic-Ginvv{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Nonalcoholic-Ginvv img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.FreeSpirits-Bourbon{
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.FreeSpirits-Bourbon img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Optimist-Bright{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Optimist-Bright img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+.Nonalcoholic-Mezcal {
+    margin: 20px 0px 0px 5px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+
+}
+.Nonalcoholic-Mezcal img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}
+  
+
+.Ritual-Tequila{
+  display: block;
+  font-family: "Avenir Next", sans-serif;
+    margin: 20px 0px 0px 38px ;
+
+}
+.Ritual-Tequila img{
+  border-left:1px solid#f22e08;
+  border-top: 1px solid#f22e08;
+}

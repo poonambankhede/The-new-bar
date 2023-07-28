@@ -1,0 +1,87 @@
+.Think-less-drink-more{
+    height: 125vh;
+    width: 100vw;
+    display: block;
+    margin: 0;
+    flex-direction: column;
+    border-bottom: 1px solid#f22e08;
+    padding: 0;
+    padding-top: 60px;
+}
+.Heading-drink-more{
+  width: max-content;
+  height: max-content;
+    align-items: center;
+    justify-content: center;
+    font-size:2.8em;
+    line-height: 1.05em;
+    letter-spacing: .01em;
+    font-weight: normal;
+    display: block;
+    margin-left: 400px ;
+font-family: "Avenir Next", sans-serif;
+}
+.img_more_drink{
+width: 45%;
+height: 75%;
+display: floot;
+float: left;
+margin-left: 85px;
+margin-top: 43px;
+
+border-left:1px solid#f22e08;
+border-top: 1px solid#f22e08;
+}
+.right_contten{
+width: 42%;
+float: right;
+margin-top: 43px;
+
+margin-right: 20px;
+font-family: "Avenir Next", sans-serif;
+}
+
+  .Think-less-drink-more .link {
+    font-size: 33px;
+  }
+  .Think-less-drink-more .link span {
+    font-size: 25px;
+  }
+
+  .peragraph{
+    width: 83%;
+    font-weight: normal;
+
+
+
+  }
+  .Think-less-drink-more .Add-to-card-button{
+width: 35vw;
+height:8vh ;
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+margin-top: 15px;
+margin-bottom: 15px;
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    font-size: 13px;
+    
+        
+        display: inline-block;
+        -webkit-appearance: none;
+        appearance: none;
+        text-align: center;
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+
+        /* background: rgb(var(--button-background)); */
+}
+.Add-to-card-button:hover{
+    background-color:#f22e08;
+    color: white;
+
+
+  }

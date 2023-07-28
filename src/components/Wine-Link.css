@@ -1,0 +1,197 @@
+.WineContenar{
+height: max-content;
+width: 98.5vw;
+
+}
+.WineContenar .Heading1{
+display: flex;
+padding-top: 87px;
+font-family: "Avenir Next", sans-serif;
+font-size: 47px;
+align-items: center;
+justify-content: center;
+
+}
+.WineContenar .Description1{
+height: 14vh;
+padding-bottom: 27px;
+font-family: "Avenir Next", sans-serif;
+    display: flex;
+    align-items: center;
+justify-content: center;
+border-bottom: 1px solid#f22e08;
+
+}
+.WineContenar .NavbarWine{
+    display: flex;
+height: 15vh;
+font-family: "Avenir Next", sans-serif;
+align-items: center;
+justify-content: center;
+border-bottom: 1px solid#f22e08;
+
+}   
+.NavbarWine p{
+    padding-left: 30px;
+
+font-family: "Avenir Next", sans-serif;
+ padding-right: 30px;
+}
+
+.products46{
+    display: flex;
+font-family: "Avenir Next", sans-serif;
+
+    height: 15vh;
+align-items:center ;
+justify-content: center;
+
+}
+.Product-contenar{
+height: fit-content;
+display:flex;
+width: 90vw;
+margin-left: 55px;
+flex-wrap: wrap;
+word-wrap: normal;
+align-items:center ;
+justify-content: center;
+
+}
+.Product-contenar .PrimaPave1-TextPrice{
+      margin: 20px 0px 0px 5px ;
+      display: block;
+font-family: "Avenir Next", sans-serif;
+      
+
+
+}
+.PrimaPave1-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+    
+
+.Product-contenar .NoughtyA-TextPrice{
+    display: block;
+    font-family: "Avenir Next", sans-serif;
+
+    margin: 20px 0px 0px 38px ;
+    /* margin-left: 20px; */
+
+}
+.NoughtyA-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.Product-contenar .Giesen-TextPrice{
+    margin-top: 20;
+font-family: "Avenir Next", sans-serif;
+
+
+    display: block;
+}
+.Giesen-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.Product-contenar .PrimaPave2-TextPrice{
+    margin: 20px 10px 0px 38px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.PrimaPave2-TextPrice img{
+    border-left:1px solid#f22e08;
+border-top: 1px solid#f22e08;}
+
+.Product-contenar .NoughtyS-TextPrice{
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+    margin-top: 20px;
+}
+.NoughtyS-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+}
+.Product-contenar .LeitzZ-TextPrice{
+    margin: 20px 0px 0px 38px ;
+    font-family: "Avenir Next", sans-serif;
+
+    display: block;
+
+} 
+.LeitzZ-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+
+}
+.Product-contenar .Giesen-TextPrice{
+    margin: 20px 0px 0px 0px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+
+}
+.Giesen-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+
+
+.Product-contenar .SparklingRose-TextPrice{
+    margin: 20px 0px 0px 38px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+    
+
+}
+.SparklingRose-TextPrice img{
+border-left:1px solid#f22e08;
+border-top: 1px solid#f22e08;}
+
+.Product-contenar .FrenchBloom-TextPrice{
+    margin: 20px 10px 0px 0px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+}
+.FrenchBloom-TextPrice img{
+    border-left:1px solid#f22e08;
+border-top: 1px solid#f22e08;}
+
+.Product-contenar .NONToasted-TextPrice{
+    margin: 20px 0px 0px 32px ;
+    font-family: "Avenir Next", sans-serif;
+
+    display: block;
+
+}
+.NONToasted-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;
+}
+.Product-contenar .GruviBubblyRose-TextPrice{
+    margin: 20px 12px 0px 0px ;
+    display: block;
+font-family: "Avenir Next", sans-serif;
+
+}
+.GruviBubblyRose-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;}
+
+.Product-contenar .GruviDRed-TextPrice{
+    margin: 20px 0px 0px 32px ;
+    font-family: "Avenir Next", sans-serif;
+
+    display: block;
+
+}
+.GruviDRed-TextPrice img{
+    border-left:1px solid#f22e08;
+    border-top: 1px solid#f22e08;}
+

@@ -1,0 +1,264 @@
+.Occasion-item{
+    border-bottom: 1px solid#f22e08;
+display: block;
+height: 75vh;
+width: 100vw;
+font-family: "Avenir Next", sans-serif;
+margin: 0;
+padding: 0;
+
+  }
+  .heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:2.5em;
+    line-height: 1.05em;
+    letter-spacing: .01em;
+    padding-top: 30px;
+    font-family: "Avenir Next", sans-serif;
+    font-size:52px;
+    transition: background-color 1.5s cubic-bezier(0.65, 0.05, 0.36, 1);
+/* margin-left: 385px; */
+/* margin-top: 30px; */
+line-height:1.11111111;
+font-weight: normal;
+letter-spacing: -.9px;
+transition: all 1s ease-in-out;   
+  }
+
+  .Occasion-btns{
+display:flex;
+flex-wrap: wrap;
+box-sizing: border-box!important;
+font-weight: 10;
+margin: 0;
+margin-top: 45px;
+margin-left: 25px;
+/* align-items: center; */
+justify-content: center;
+  }
+  
+  
+  .Occasion-btns .TNBs-Birthday{
+    /* box-sizing: border-box!important; */
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    display: flex;
+    margin-left: 50px;
+   align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    height: 8vh;
+    width: 16vw;
+        -webkit-appearance: none;
+        appearance: none;
+        text-align: center;
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+}
+.Occasion-btns .TNBs-Birthday:hover{
+    background-color:#f22e08;
+    color: #fff;
+}
+  
+.Occasion-btns .Summertime-drinks{
+    text-transform: none;
+    border: 0.5px solid  #1db072;
+    background: #F6EFDE;
+    color: #1db072;
+margin-left: 30px;
+
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    height: 8vh;
+    width: 20vw;
+       
+        -webkit-appearance: none;
+        appearance: none;
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+
+
+}
+.Occasion-btns .Summertime-drinks:hover{
+    background-color: #1db072;
+   color:#fff;
+}
+
+.Occasion-btns .Quiet-night-in{
+    text-transform: none;
+    border: 0.5px solid #4f65dd;
+    background: #F6EFDE;
+    color: #4f65dd;
+    font-weight: 400;
+margin-left: 30px;
+margin-right: 110px;
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    height: 8vh;
+    width: 16vw;
+    letter-spacing: .015em;
+    line-height: 3em;
+
+        -webkit-appearance: none;
+        appearance: none;
+       
+        text-decoration: none;
+        border-radius: var(--button-border-radius);
+
+
+}
+.Occasion-btns .Quiet-night-in:hover{
+    color: #fff;
+    background-color: #4f65dd;
+}
+
+.Occasion-btns .Wild-night-out{
+    margin-right: 50px;
+    text-transform: none;
+    border: 0.5px solid #ff6e94;
+    background: #F6EFDE;
+    color: #ff6e94;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 22px;
+     height: 8vh;
+     width:16vw;
+     margin:30px 0% 30px 170px;
+     
+    
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+           
+        text-decoration: none;
+        
+
+}
+.Occasion-btns .Wild-night-out:hover{
+    color: #fff;
+    background-color: #ff6e94;
+
+}
+
+.Occasion-btns .Dinner-party{
+    text-transform: none;
+    border: 0.5px solid #316f6f;;
+    background: #F6EFDE;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 22px;
+     height: 8vh;
+     width: 14vw;
+     margin: 30px 30px 0 30px;
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    
+        
+
+
+}
+.Occasion-btns .Dinner-party:hover{
+    color: #fff;
+    background-color :#316f6f;;
+}
+
+.Occasion-btns .Celebration{
+    text-transform: none;
+    border: 0.5px solid  #0a9bdc;;
+    background: #F6EFDE;
+    color:#0a9bdc;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 22px;
+     height: 8vh;
+     width: 14vw;
+   margin-top: 30px;
+    letter-spacing: .015em;
+    line-height: 3em;
+margin-right: 220px;
+    
+        
+      
+
+}
+.Occasion-btns .Celebration:hover{
+    background-color:  #0a9bdc;
+    color: #fff;
+
+}
+.Occasion-btns .Doing-the-least{
+    text-transform: none;
+    border: 0.5px solid #f98f03;
+    background: #F6EFDE;
+    color: #f98f03;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 22px;
+     height: 8vh;
+     width: 15vw;
+     margin:0px 0% 0px 23.5px;
+   
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+
+       
+}
+
+.Occasion-btns .Doing-the-least:hover{
+    color: #fff;
+    background-color:#f98f03;
+
+}
+.Occasion-btns .New-to-this{
+    text-transform: none;
+    border: 0.5px solid #F22E08;
+    background: #F6EFDE;
+    color: #f22e08;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     font-size: 22px;
+     height: 8vh;
+     width: 15vw;
+/* margin-right: 200px; */
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+    margin-left: 30px;
+    letter-spacing: .015em;
+    line-height: 3em;
+    font-weight: 400;
+   
+
+
+}
+
+.Occasion-btns .New-to-this:hover{
+    background-color:#f22e08;
+    color: #fff;
+
+}

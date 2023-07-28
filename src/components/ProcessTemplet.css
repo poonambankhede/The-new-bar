@@ -1,0 +1,70 @@
+.Our-Process-templet{
+    height: 60vh;
+    width: 100vw;
+    display: block;
+    font-family: "Avenir Next", sans-serif;
+
+    
+    }
+    .Our-Process-templet h2 {
+    padding:30px 0% 0% 38vw;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+        line-height: 1.2em;
+        font-weight:bolder;
+        font-family: "Avenir Next", sans-serif;
+        width: max-content;
+
+    
+    }
+    
+    .Our-Process-templet h1 {
+        font-family: "Avenir Next", sans-serif;
+    width: max-content;
+        margin:20px 0% 0% 43vw;
+        line-height: 1.05em;
+        letter-spacing: .01em;
+        font-size:  29;
+        font-weight: 500;
+    
+    }
+    
+    .icon-process-templet{
+    display: flex;
+    padding-top: 10vh;
+    width: 85vw;
+    justify-content: center;
+    align-items: center;
+    }
+    .icon-process-templet .Research{
+        margin-left: 15vw;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.325em;
+        letter-spacing: .015em;
+        text-transform: none;
+        margin-right: 25vw;}
+    .icon-process-templet .Examine{
+        margin-right: 15vw;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.325em;
+        letter-spacing: .015em;
+        text-transform: none;
+    
+       }
+       .icon-process-templet .Examine img{
+    padding-left: 1vw;}
+    .icon-process-templet .Taste-Test{
+        margin-left: 10vw;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 1.325em;
+        letter-spacing: .015em;
+        text-transform: none;
+    }
+    .icon-process-templet .Taste-Test img{
+        margin-right: 10vh;
+        padding-left: 1vw;
+    
+    }
